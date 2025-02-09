@@ -1,2 +1,2 @@
 # Netflix-Clone-Tailwind
-Still working on it...
+Netflix landing page . ( Completed ) 
