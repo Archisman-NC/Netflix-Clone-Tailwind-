@@ -1,2 +1,3 @@
 # Netflix-Clone-Tailwind
-Netflix landing page . (Completed) 
+Netflix landing page .
+(Completed) 
